@@ -19,7 +19,7 @@
 		"@tailwindcss/vite": "^4.2.1",
 		"gh-pages": "^6.3.0",
 		"shiki": "^4.0.2",
-		"svelte": "^5.51.0",
+		"svelte": "^5.55.7",
 		"svelte-check": "^4.4.2",
 		"tailwindcss": "^4.2.1",
 		"typescript": "^5.9.3",
